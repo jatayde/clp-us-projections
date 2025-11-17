@@ -1,0 +1,702 @@
+{
+  "Alabama": {
+    "2030": {
+      "incidence": "126 (110-142)",
+      "incidence_number": 126
+    },
+    "2040": {
+      "incidence": "126 (110-142)",
+      "incidence_number": 126
+    },
+    "2050": {
+      "incidence": "125 (110-141)",
+      "incidence_number": 125
+    }
+  },
+  "Alaska": {
+    "2030": {
+      "incidence": "21 (19-24)",
+      "incidence_number": 21
+    },
+    "2040": {
+      "incidence": "21 (18-23)",
+      "incidence_number": 21
+    },
+    "2050": {
+      "incidence": "20 (18-23)",
+      "incidence_number": 20
+    }
+  },
+  "Arizona": {
+    "2030": {
+      "incidence": "191 (167-215)",
+      "incidence_number": 191
+    },
+    "2040": {
+      "incidence": "199 (174-224)",
+      "incidence_number": 199
+    },
+    "2050": {
+      "incidence": "209 (184-235)",
+      "incidence_number": 209
+    }
+  },
+  "Arkansas": {
+    "2030": {
+      "incidence": "80 (69-90)",
+      "incidence_number": 80
+    },
+    "2040": {
+      "incidence": "78 (68-88)",
+      "incidence_number": 78
+    },
+    "2050": {
+      "incidence": "76 (67-86)",
+      "incidence_number": 76
+    }
+  },
+  "California": {
+    "2030": {
+      "incidence": "995 (869-1120)",
+      "incidence_number": 995
+    },
+    "2040": {
+      "incidence": "967 (844-1089)",
+      "incidence_number": 967
+    },
+    "2050": {
+      "incidence": "960 (841-1079)",
+      "incidence_number": 960
+    }
+  },
+  "Colorado": {
+    "2030": {
+      "incidence": "159 (139-179)",
+      "incidence_number": 159
+    },
+    "2040": {
+      "incidence": "169 (148-190)",
+      "incidence_number": 169
+    },
+    "2050": {
+      "incidence": "183 (161-206)",
+      "incidence_number": 183
+    }
+  },
+  "Connecticut": {
+    "2030": {
+      "incidence": "79 (69-89)",
+      "incidence_number": 79
+    },
+    "2040": {
+      "incidence": "74 (65-83)",
+      "incidence_number": 74
+    },
+    "2050": {
+      "incidence": "69 (61-78)",
+      "incidence_number": 69
+    }
+  },
+  "Delaware": {
+    "2030": {
+      "incidence": "24 (21-27)",
+      "incidence_number": 24
+    },
+    "2040": {
+      "incidence": "25 (22-28)",
+      "incidence_number": 25
+    },
+    "2050": {
+      "incidence": "26 (23-29)",
+      "incidence_number": 26
+    }
+  },
+  "Florida": {
+    "2030": {
+      "incidence": "493 (431-555)",
+      "incidence_number": 493
+    },
+    "2040": {
+      "incidence": "532 (464-599)",
+      "incidence_number": 532
+    },
+    "2050": {
+      "incidence": "579 (507-650)",
+      "incidence_number": 579
+    }
+  },
+  "Georgia": {
+    "2030": {
+      "incidence": "294 (256-331)",
+      "incidence_number": 294
+    },
+    "2040": {
+      "incidence": "306 (267-345)",
+      "incidence_number": 306
+    },
+    "2050": {
+      "incidence": "319 (280-359)",
+      "incidence_number": 319
+    }
+  },
+  "Hawaii": {
+    "2030": {
+      "incidence": "35 (31-40)",
+      "incidence_number": 35
+    },
+    "2040": {
+      "incidence": "35 (31-40)",
+      "incidence_number": 35
+    },
+    "2050": {
+      "incidence": "36 (31-40)",
+      "incidence_number": 36
+    }
+  },
+  "Idaho": {
+    "2030": {
+      "incidence": "58 (50-65)",
+      "incidence_number": 58
+    },
+    "2040": {
+      "incidence": "64 (56-72)",
+      "incidence_number": 64
+    },
+    "2050": {
+      "incidence": "71 (62-80)",
+      "incidence_number": 71
+    }
+  },
+  "Illinois": {
+    "2030": {
+      "incidence": "305 (266-343)",
+      "incidence_number": 305
+    },
+    "2040": {
+      "incidence": "283 (247-319)",
+      "incidence_number": 283
+    },
+    "2050": {
+      "incidence": "265 (232-297)",
+      "incidence_number": 265
+    }
+  },
+  "Indiana": {
+    "2030": {
+      "incidence": "181 (158-204)",
+      "incidence_number": 181
+    },
+    "2040": {
+      "incidence": "180 (157-202)",
+      "incidence_number": 180
+    },
+    "2050": {
+      "incidence": "179 (157-201)",
+      "incidence_number": 179
+    }
+  },
+  "Iowa": {
+    "2030": {
+      "incidence": "85 (74-96)",
+      "incidence_number": 85
+    },
+    "2040": {
+      "incidence": "85 (74-96)",
+      "incidence_number": 85
+    },
+    "2050": {
+      "incidence": "85 (74-95)",
+      "incidence_number": 85
+    }
+  },
+  "Kansas": {
+    "2030": {
+      "incidence": "81 (71-91)",
+      "incidence_number": 81
+    },
+    "2040": {
+      "incidence": "79 (69-89)",
+      "incidence_number": 79
+    },
+    "2050": {
+      "incidence": "77 (68-87)",
+      "incidence_number": 77
+    }
+  },
+  "Kentucky": {
+    "2030": {
+      "incidence": "116 (101-130)",
+      "incidence_number": 116
+    },
+    "2040": {
+      "incidence": "115 (100-129)",
+      "incidence_number": 115
+    },
+    "2050": {
+      "incidence": "114 (100-128)",
+      "incidence_number": 114
+    }
+  },
+  "Louisiana": {
+    "2030": {
+      "incidence": "122 (107-138)",
+      "incidence_number": 122
+    },
+    "2040": {
+      "incidence": "118 (103-133)",
+      "incidence_number": 118
+    },
+    "2050": {
+      "incidence": "115 (101-130)",
+      "incidence_number": 115
+    }
+  },
+  "Maine": {
+    "2030": {
+      "incidence": "27 (24-30)",
+      "incidence_number": 27
+    },
+    "2040": {
+      "incidence": "26 (22-29)",
+      "incidence_number": 26
+    },
+    "2050": {
+      "incidence": "25 (22-28)",
+      "incidence_number": 25
+    }
+  },
+  "Maryland": {
+    "2030": {
+      "incidence": "158 (138-178)",
+      "incidence_number": 158
+    },
+    "2040": {
+      "incidence": "159 (139-179)",
+      "incidence_number": 159
+    },
+    "2050": {
+      "incidence": "161 (141-181)",
+      "incidence_number": 161
+    }
+  },
+  "Massachusetts": {
+    "2030": {
+      "incidence": "159 (139-179)",
+      "incidence_number": 159
+    },
+    "2040": {
+      "incidence": "159 (139-179)",
+      "incidence_number": 159
+    },
+    "2050": {
+      "incidence": "159 (140-179)",
+      "incidence_number": 159
+    }
+  },
+  "Michigan": {
+    "2030": {
+      "incidence": "238 (207-268)",
+      "incidence_number": 238
+    },
+    "2040": {
+      "incidence": "225 (196-253)",
+      "incidence_number": 225
+    },
+    "2050": {
+      "incidence": "216 (189-243)",
+      "incidence_number": 216
+    }
+  },
+  "Minnesota": {
+    "2030": {
+      "incidence": "153 (133-172)",
+      "incidence_number": 153
+    },
+    "2040": {
+      "incidence": "156 (136-175)",
+      "incidence_number": 156
+    },
+    "2050": {
+      "incidence": "160 (140-179)",
+      "incidence_number": 160
+    }
+  },
+  "Mississippi": {
+    "2030": {
+      "incidence": "75 (65-84)",
+      "incidence_number": 75
+    },
+    "2040": {
+      "incidence": "70 (61-78)",
+      "incidence_number": 70
+    },
+    "2050": {
+      "incidence": "65 (57-74)",
+      "incidence_number": 65
+    }
+  },
+  "Missouri": {
+    "2030": {
+      "incidence": "156 (137-176)",
+      "incidence_number": 156
+    },
+    "2040": {
+      "incidence": "151 (132-170)",
+      "incidence_number": 151
+    },
+    "2050": {
+      "incidence": "147 (129-166)",
+      "incidence_number": 147
+    }
+  },
+  "Montana": {
+    "2030": {
+      "incidence": "28 (24-31)",
+      "incidence_number": 28
+    },
+    "2040": {
+      "incidence": "29 (25-32)",
+      "incidence_number": 29
+    },
+    "2050": {
+      "incidence": "30 (26-34)",
+      "incidence_number": 30
+    }
+  },
+  "Nebraska": {
+    "2030": {
+      "incidence": "58 (51-65)",
+      "incidence_number": 58
+    },
+    "2040": {
+      "incidence": "59 (52-67)",
+      "incidence_number": 59
+    },
+    "2050": {
+      "incidence": "61 (53-68)",
+      "incidence_number": 61
+    }
+  },
+  "Nevada": {
+    "2030": {
+      "incidence": "85 (74-96)",
+      "incidence_number": 85
+    },
+    "2040": {
+      "incidence": "92 (81-104)",
+      "incidence_number": 92
+    },
+    "2050": {
+      "incidence": "100 (88-112)",
+      "incidence_number": 100
+    }
+  },
+  "New Hampshire": {
+    "2030": {
+      "incidence": "28 (24-31)",
+      "incidence_number": 28
+    },
+    "2040": {
+      "incidence": "27 (23-30)",
+      "incidence_number": 27
+    },
+    "2050": {
+      "incidence": "26 (23-29)",
+      "incidence_number": 26
+    }
+  },
+  "New Jersey": {
+    "2030": {
+      "incidence": "230 (201-259)",
+      "incidence_number": 230
+    },
+    "2040": {
+      "incidence": "230 (200-258)",
+      "incidence_number": 230
+    },
+    "2050": {
+      "incidence": "227 (199-255)",
+      "incidence_number": 227
+    }
+  },
+  "New Mexico": {
+    "2030": {
+      "incidence": "53 (47-60)",
+      "incidence_number": 53
+    },
+    "2040": {
+      "incidence": "51 (44-57)",
+      "incidence_number": 51
+    },
+    "2050": {
+      "incidence": "49 (43-55)",
+      "incidence_number": 49
+    }
+  },
+  "New York": {
+    "2030": {
+      "incidence": "476 (415-535)",
+      "incidence_number": 476
+    },
+    "2040": {
+      "incidence": "459 (401-517)",
+      "incidence_number": 459
+    },
+    "2050": {
+      "incidence": "449 (393-505)",
+      "incidence_number": 449
+    }
+  },
+  "North Carolina": {
+    "2030": {
+      "incidence": "269 (235-303)",
+      "incidence_number": 269
+    },
+    "2040": {
+      "incidence": "279 (243-314)",
+      "incidence_number": 279
+    },
+    "2050": {
+      "incidence": "289 (253-325)",
+      "incidence_number": 289
+    }
+  },
+  "North Dakota": {
+    "2030": {
+      "incidence": "24 (21-27)",
+      "incidence_number": 24
+    },
+    "2040": {
+      "incidence": "27 (23-30)",
+      "incidence_number": 27
+    },
+    "2050": {
+      "incidence": "30 (26-34)",
+      "incidence_number": 30
+    }
+  },
+  "Ohio": {
+    "2030": {
+      "incidence": "291 (254-327)",
+      "incidence_number": 291
+    },
+    "2040": {
+      "incidence": "280 (244-315)",
+      "incidence_number": 280
+    },
+    "2050": {
+      "incidence": "270 (237-304)",
+      "incidence_number": 270
+    }
+  },
+  "Oklahoma": {
+    "2030": {
+      "incidence": "111 (97-125)",
+      "incidence_number": 111
+    },
+    "2040": {
+      "incidence": "111 (97-125)",
+      "incidence_number": 111
+    },
+    "2050": {
+      "incidence": "111 (98-125)",
+      "incidence_number": 111
+    }
+  },
+  "Oregon": {
+    "2030": {
+      "incidence": "103 (90-115)",
+      "incidence_number": 103
+    },
+    "2040": {
+      "incidence": "105 (92-118)",
+      "incidence_number": 105
+    },
+    "2050": {
+      "incidence": "109 (96-123)",
+      "incidence_number": 109
+    }
+  },
+  "Pennsylvania": {
+    "2030": {
+      "incidence": "294 (257-331)",
+      "incidence_number": 294
+    },
+    "2040": {
+      "incidence": "281 (245-316)",
+      "incidence_number": 281
+    },
+    "2050": {
+      "incidence": "273 (239-306)",
+      "incidence_number": 273
+    }
+  },
+  "Rhode Island": {
+    "2030": {
+      "incidence": "23 (20-26)",
+      "incidence_number": 23
+    },
+    "2040": {
+      "incidence": "23 (20-25)",
+      "incidence_number": 23
+    },
+    "2050": {
+      "incidence": "22 (19-25)",
+      "incidence_number": 22
+    }
+  },
+  "South Carolina": {
+    "2030": {
+      "incidence": "129 (113-146)",
+      "incidence_number": 129
+    },
+    "2040": {
+      "incidence": "135 (118-152)",
+      "incidence_number": 135
+    },
+    "2050": {
+      "incidence": "143 (125-161)",
+      "incidence_number": 143
+    }
+  },
+  "South Dakota": {
+    "2030": {
+      "incidence": "27 (23-30)",
+      "incidence_number": 27
+    },
+    "2040": {
+      "incidence": "27 (24-31)",
+      "incidence_number": 27
+    },
+    "2050": {
+      "incidence": "29 (25-32)",
+      "incidence_number": 29
+    }
+  },
+  "Tennessee": {
+    "2030": {
+      "incidence": "181 (158-204)",
+      "incidence_number": 181
+    },
+    "2040": {
+      "incidence": "187 (163-210)",
+      "incidence_number": 187
+    },
+    "2050": {
+      "incidence": "193 (169-217)",
+      "incidence_number": 193
+    }
+  },
+  "Texas": {
+    "2030": {
+      "incidence": "903 (788-1017)",
+      "incidence_number": 903
+    },
+    "2040": {
+      "incidence": "985 (860-1109)",
+      "incidence_number": 985
+    },
+    "2050": {
+      "incidence": "1075 (942-1208)",
+      "incidence_number": 1075
+    }
+  },
+  "Utah": {
+    "2030": {
+      "incidence": "124 (108-139)",
+      "incidence_number": 124
+    },
+    "2040": {
+      "incidence": "137 (120-154)",
+      "incidence_number": 137
+    },
+    "2050": {
+      "incidence": "152 (133-171)",
+      "incidence_number": 152
+    }
+  },
+  "Vermont": {
+    "2030": {
+      "incidence": "13 (11-14)",
+      "incidence_number": 13
+    },
+    "2040": {
+      "incidence": "12 (10-13)",
+      "incidence_number": 12
+    },
+    "2050": {
+      "incidence": "11 (10-13)",
+      "incidence_number": 11
+    }
+  },
+  "Virginia": {
+    "2030": {
+      "incidence": "221 (193-249)",
+      "incidence_number": 221
+    },
+    "2040": {
+      "incidence": "227 (198-256)",
+      "incidence_number": 227
+    },
+    "2050": {
+      "incidence": "232 (203-260)",
+      "incidence_number": 232
+    }
+  },
+  "Washington": {
+    "2030": {
+      "incidence": "210 (183-236)",
+      "incidence_number": 210
+    },
+    "2040": {
+      "incidence": "223 (195-251)",
+      "incidence_number": 223
+    },
+    "2050": {
+      "incidence": "243 (213-274)",
+      "incidence_number": 243
+    }
+  },
+  "West Virginia": {
+    "2030": {
+      "incidence": "37 (33-42)",
+      "incidence_number": 37
+    },
+    "2040": {
+      "incidence": "34 (30-39)",
+      "incidence_number": 34
+    },
+    "2050": {
+      "incidence": "32 (28-36)",
+      "incidence_number": 32
+    }
+  },
+  "Wisconsin": {
+    "2030": {
+      "incidence": "142 (124-160)",
+      "incidence_number": 142
+    },
+    "2040": {
+      "incidence": "138 (120-155)",
+      "incidence_number": 138
+    },
+    "2050": {
+      "incidence": "136 (119-152)",
+      "incidence_number": 136
+    }
+  },
+  "Wyoming": {
+    "2030": {
+      "incidence": "15 (13-17)",
+      "incidence_number": 15
+    },
+    "2040": {
+      "incidence": "15 (13-17)",
+      "incidence_number": 15
+    },
+    "2050": {
+      "incidence": "15 (13-16)",
+      "incidence_number": 15
+    }
+  }
+}
