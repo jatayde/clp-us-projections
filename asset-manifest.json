@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clp-us-projections/static/css/main.92c8d4eb.css",
+    "main.js": "/clp-us-projections/static/js/main.7d7f7f61.js",
+    "index.html": "/clp-us-projections/index.html",
+    "main.92c8d4eb.css.map": "/clp-us-projections/static/css/main.92c8d4eb.css.map",
+    "main.7d7f7f61.js.map": "/clp-us-projections/static/js/main.7d7f7f61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.7d7f7f61.js"
+  ]
+}
