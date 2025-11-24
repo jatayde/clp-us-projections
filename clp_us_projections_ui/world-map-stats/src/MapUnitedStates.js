@@ -164,7 +164,7 @@ export default function MapUS({ year, data, cat }) {
             {tip.numCasesPerProvider != null &&
               cat === "Cases per Provider" && (
                 <div>
-                  <em>Cases per provider per year:</em> {tip.numCasesPerProvider}
+                  <em>Cases per Provider:</em> {tip.numCasesPerProvider}
                 </div>
               )}
           </div>

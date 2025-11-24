@@ -157,21 +157,21 @@
     "2030": {
       "incidence": "24 (21-27)",
       "incidence_number": 24,
-      "num_providers": 4,
+      "num_providers": 7,
       "num_cases_per_provider": 3
     },
     "2040": {
       "incidence": "25 (22-28)",
       "incidence_number": 25,
       "percent_change": 0.043,
-      "num_providers": 4,
+      "num_providers": 7,
       "num_cases_per_provider": 4
     },
     "2050": {
       "incidence": "26 (23-29)",
       "incidence_number": 26,
       "percent_change": 0.097,
-      "num_providers": 4,
+      "num_providers": 7,
       "num_cases_per_provider": 4
     }
   },
@@ -179,21 +179,21 @@
     "2030": {
       "incidence": "493 (431-555)",
       "incidence_number": 493,
-      "num_providers": 7,
+      "num_providers": 36,
       "num_cases_per_provider": 14
     },
     "2040": {
       "incidence": "532 (464-599)",
       "incidence_number": 532,
       "percent_change": 0.078,
-      "num_providers": 7,
+      "num_providers": 36,
       "num_cases_per_provider": 15
     },
     "2050": {
       "incidence": "579 (507-650)",
       "incidence_number": 579,
       "percent_change": 0.173,
-      "num_providers": 7,
+      "num_providers": 36,
       "num_cases_per_provider": 16
     }
   },
@@ -201,21 +201,21 @@
     "2030": {
       "incidence": "294 (256-331)",
       "incidence_number": 294,
-      "num_providers": 36,
+      "num_providers": 14,
       "num_cases_per_provider": 21
     },
     "2040": {
       "incidence": "306 (267-345)",
       "incidence_number": 306,
       "percent_change": 0.043,
-      "num_providers": 36,
+      "num_providers": 14,
       "num_cases_per_provider": 22
     },
     "2050": {
       "incidence": "319 (280-359)",
       "incidence_number": 319,
       "percent_change": 0.087,
-      "num_providers": 36,
+      "num_providers": 14,
       "num_cases_per_provider": 23
     }
   },
@@ -223,21 +223,21 @@
     "2030": {
       "incidence": "35 (31-40)",
       "incidence_number": 35,
-      "num_providers": 14,
+      "num_providers": 11,
       "num_cases_per_provider": 3
     },
     "2040": {
       "incidence": "35 (31-40)",
       "incidence_number": 35,
       "percent_change": 0.001,
-      "num_providers": 14,
+      "num_providers": 11,
       "num_cases_per_provider": 3
     },
     "2050": {
       "incidence": "36 (31-40)",
       "incidence_number": 36,
       "percent_change": 0.014,
-      "num_providers": 14,
+      "num_providers": 11,
       "num_cases_per_provider": 3
     }
   },
@@ -245,21 +245,21 @@
     "2030": {
       "incidence": "58 (50-65)",
       "incidence_number": 58,
-      "num_providers": 11,
+      "num_providers": 3,
       "num_cases_per_provider": 19
     },
     "2040": {
       "incidence": "64 (56-72)",
       "incidence_number": 64,
       "percent_change": 0.112,
-      "num_providers": 11,
+      "num_providers": 3,
       "num_cases_per_provider": 21
     },
     "2050": {
       "incidence": "71 (62-80)",
       "incidence_number": 71,
       "percent_change": 0.234,
-      "num_providers": 11,
+      "num_providers": 3,
       "num_cases_per_provider": 24
     }
   },
@@ -267,21 +267,21 @@
     "2030": {
       "incidence": "305 (266-343)",
       "incidence_number": 305,
-      "num_providers": 3,
+      "num_providers": 36,
       "num_cases_per_provider": 8
     },
     "2040": {
       "incidence": "283 (247-319)",
       "incidence_number": 283,
       "percent_change": -0.07,
-      "num_providers": 3,
+      "num_providers": 36,
       "num_cases_per_provider": 8
     },
     "2050": {
       "incidence": "265 (232-297)",
       "incidence_number": 265,
       "percent_change": -0.132,
-      "num_providers": 3,
+      "num_providers": 36,
       "num_cases_per_provider": 7
     }
   },
@@ -289,21 +289,21 @@
     "2030": {
       "incidence": "181 (158-204)",
       "incidence_number": 181,
-      "num_providers": 36,
+      "num_providers": 3,
       "num_cases_per_provider": 60
     },
     "2040": {
       "incidence": "180 (157-202)",
       "incidence_number": 180,
       "percent_change": -0.007,
-      "num_providers": 36,
+      "num_providers": 3,
       "num_cases_per_provider": 60
     },
     "2050": {
       "incidence": "179 (157-201)",
       "incidence_number": 179,
       "percent_change": -0.012,
-      "num_providers": 36,
+      "num_providers": 3,
       "num_cases_per_provider": 60
     }
   },
@@ -311,21 +311,21 @@
     "2030": {
       "incidence": "85 (74-96)",
       "incidence_number": 85,
-      "num_providers": 3,
+      "num_providers": 6,
       "num_cases_per_provider": 14
     },
     "2040": {
       "incidence": "85 (74-96)",
       "incidence_number": 85,
       "percent_change": -0.005,
-      "num_providers": 3,
+      "num_providers": 6,
       "num_cases_per_provider": 14
     },
     "2050": {
       "incidence": "85 (74-95)",
       "incidence_number": 85,
       "percent_change": -0.004,
-      "num_providers": 3,
+      "num_providers": 6,
       "num_cases_per_provider": 14
     }
   },
@@ -333,21 +333,21 @@
     "2030": {
       "incidence": "81 (71-91)",
       "incidence_number": 81,
-      "num_providers": 6,
+      "num_providers": 10,
       "num_cases_per_provider": 8
     },
     "2040": {
       "incidence": "79 (69-89)",
       "incidence_number": 79,
       "percent_change": -0.024,
-      "num_providers": 6,
+      "num_providers": 10,
       "num_cases_per_provider": 8
     },
     "2050": {
       "incidence": "77 (68-87)",
       "incidence_number": 77,
       "percent_change": -0.046,
-      "num_providers": 6,
+      "num_providers": 10,
       "num_cases_per_provider": 8
     }
   },
@@ -355,21 +355,21 @@
     "2030": {
       "incidence": "116 (101-130)",
       "incidence_number": 116,
-      "num_providers": 10,
+      "num_providers": 3,
       "num_cases_per_provider": 39
     },
     "2040": {
       "incidence": "115 (100-129)",
       "incidence_number": 115,
       "percent_change": -0.008,
-      "num_providers": 10,
+      "num_providers": 3,
       "num_cases_per_provider": 38
     },
     "2050": {
       "incidence": "114 (100-128)",
       "incidence_number": 114,
       "percent_change": -0.017,
-      "num_providers": 10,
+      "num_providers": 3,
       "num_cases_per_provider": 38
     }
   },
@@ -377,21 +377,21 @@
     "2030": {
       "incidence": "122 (107-138)",
       "incidence_number": 122,
-      "num_providers": 3,
+      "num_providers": 10,
       "num_cases_per_provider": 12
     },
     "2040": {
       "incidence": "118 (103-133)",
       "incidence_number": 118,
       "percent_change": -0.034,
-      "num_providers": 3,
+      "num_providers": 10,
       "num_cases_per_provider": 12
     },
     "2050": {
       "incidence": "115 (101-130)",
       "incidence_number": 115,
       "percent_change": -0.057,
-      "num_providers": 3,
+      "num_providers": 10,
       "num_cases_per_provider": 12
     }
   },
@@ -399,21 +399,21 @@
     "2030": {
       "incidence": "27 (24-30)",
       "incidence_number": 27,
-      "num_providers": 10,
+      "num_providers": 4,
       "num_cases_per_provider": 7
     },
     "2040": {
       "incidence": "26 (22-29)",
       "incidence_number": 26,
       "percent_change": -0.053,
-      "num_providers": 10,
+      "num_providers": 4,
       "num_cases_per_provider": 6
     },
     "2050": {
       "incidence": "25 (22-28)",
       "incidence_number": 25,
       "percent_change": -0.08,
-      "num_providers": 10,
+      "num_providers": 4,
       "num_cases_per_provider": 6
     }
   },
@@ -421,21 +421,21 @@
     "2030": {
       "incidence": "158 (138-178)",
       "incidence_number": 158,
-      "num_providers": 4,
+      "num_providers": 7,
       "num_cases_per_provider": 23
     },
     "2040": {
       "incidence": "159 (139-179)",
       "incidence_number": 159,
       "percent_change": 0.01,
-      "num_providers": 4,
+      "num_providers": 7,
       "num_cases_per_provider": 23
     },
     "2050": {
       "incidence": "161 (141-181)",
       "incidence_number": 161,
       "percent_change": 0.021,
-      "num_providers": 4,
+      "num_providers": 7,
       "num_cases_per_provider": 23
     }
   },
@@ -443,21 +443,21 @@
     "2030": {
       "incidence": "159 (139-179)",
       "incidence_number": 159,
-      "num_providers": 7,
+      "num_providers": 23,
       "num_cases_per_provider": 7
     },
     "2040": {
       "incidence": "159 (139-179)",
       "incidence_number": 159,
       "percent_change": -0.001,
-      "num_providers": 7,
+      "num_providers": 23,
       "num_cases_per_provider": 7
     },
     "2050": {
       "incidence": "159 (140-179)",
       "incidence_number": 159,
       "percent_change": 0.003,
-      "num_providers": 7,
+      "num_providers": 23,
       "num_cases_per_provider": 7
     }
   },
@@ -465,21 +465,21 @@
     "2030": {
       "incidence": "238 (207-268)",
       "incidence_number": 238,
-      "num_providers": 23,
+      "num_providers": 10,
       "num_cases_per_provider": 24
     },
     "2040": {
       "incidence": "225 (196-253)",
       "incidence_number": 225,
       "percent_change": -0.054,
-      "num_providers": 23,
+      "num_providers": 10,
       "num_cases_per_provider": 22
     },
     "2050": {
       "incidence": "216 (189-243)",
       "incidence_number": 216,
       "percent_change": -0.092,
-      "num_providers": 23,
+      "num_providers": 10,
       "num_cases_per_provider": 22
     }
   },
@@ -487,21 +487,21 @@
     "2030": {
       "incidence": "153 (133-172)",
       "incidence_number": 153,
-      "num_providers": 10,
+      "num_providers": 15,
       "num_cases_per_provider": 10
     },
     "2040": {
       "incidence": "156 (136-175)",
       "incidence_number": 156,
       "percent_change": 0.018,
-      "num_providers": 10,
+      "num_providers": 15,
       "num_cases_per_provider": 10
     },
     "2050": {
       "incidence": "160 (140-179)",
       "incidence_number": 160,
       "percent_change": 0.043,
-      "num_providers": 10,
+      "num_providers": 15,
       "num_cases_per_provider": 11
     }
   },
@@ -509,21 +509,21 @@
     "2030": {
       "incidence": "75 (65-84)",
       "incidence_number": 75,
-      "num_providers": 15,
+      "num_providers": 8,
       "num_cases_per_provider": 9
     },
     "2040": {
       "incidence": "70 (61-78)",
       "incidence_number": 70,
       "percent_change": -0.065,
-      "num_providers": 15,
+      "num_providers": 8,
       "num_cases_per_provider": 9
     },
     "2050": {
       "incidence": "65 (57-74)",
       "incidence_number": 65,
       "percent_change": -0.122,
-      "num_providers": 15,
+      "num_providers": 8,
       "num_cases_per_provider": 8
     }
   },
@@ -531,21 +531,21 @@
     "2030": {
       "incidence": "156 (137-176)",
       "incidence_number": 156,
-      "num_providers": 8,
+      "num_providers": 6,
       "num_cases_per_provider": 26
     },
     "2040": {
       "incidence": "151 (132-170)",
       "incidence_number": 151,
       "percent_change": -0.032,
-      "num_providers": 8,
+      "num_providers": 6,
       "num_cases_per_provider": 25
     },
     "2050": {
       "incidence": "147 (129-166)",
       "incidence_number": 147,
       "percent_change": -0.057,
-      "num_providers": 8,
+      "num_providers": 6,
       "num_cases_per_provider": 25
     }
   },
@@ -553,21 +553,21 @@
     "2030": {
       "incidence": "28 (24-31)",
       "incidence_number": 28,
-      "num_providers": 6,
+      "num_providers": 1,
       "num_cases_per_provider": 28
     },
     "2040": {
       "incidence": "29 (25-32)",
       "incidence_number": 29,
       "percent_change": 0.028,
-      "num_providers": 6,
+      "num_providers": 1,
       "num_cases_per_provider": 29
     },
     "2050": {
       "incidence": "30 (26-34)",
       "incidence_number": 30,
       "percent_change": 0.079,
-      "num_providers": 6,
+      "num_providers": 1,
       "num_cases_per_provider": 30
     }
   },
@@ -575,21 +575,21 @@
     "2030": {
       "incidence": "58 (51-65)",
       "incidence_number": 58,
-      "num_providers": 1,
+      "num_providers": 8,
       "num_cases_per_provider": 7
     },
     "2040": {
       "incidence": "59 (52-67)",
       "incidence_number": 59,
       "percent_change": 0.024,
-      "num_providers": 1,
+      "num_providers": 8,
       "num_cases_per_provider": 7
     },
     "2050": {
       "incidence": "61 (53-68)",
       "incidence_number": 61,
       "percent_change": 0.051,
-      "num_providers": 1,
+      "num_providers": 8,
       "num_cases_per_provider": 8
     }
   },
@@ -597,21 +597,21 @@
     "2030": {
       "incidence": "85 (74-96)",
       "incidence_number": 85,
-      "num_providers": 8,
+      "num_providers": 3,
       "num_cases_per_provider": 28
     },
     "2040": {
       "incidence": "92 (81-104)",
       "incidence_number": 92,
       "percent_change": 0.084,
-      "num_providers": 8,
+      "num_providers": 3,
       "num_cases_per_provider": 31
     },
     "2050": {
       "incidence": "100 (88-112)",
       "incidence_number": 100,
       "percent_change": 0.175,
-      "num_providers": 8,
+      "num_providers": 3,
       "num_cases_per_provider": 33
     }
   },
@@ -619,21 +619,21 @@
     "2030": {
       "incidence": "28 (24-31)",
       "incidence_number": 28,
-      "num_providers": 3,
+      "num_providers": 7,
       "num_cases_per_provider": 4
     },
     "2040": {
       "incidence": "27 (23-30)",
       "incidence_number": 27,
       "percent_change": -0.043,
-      "num_providers": 3,
+      "num_providers": 7,
       "num_cases_per_provider": 4
     },
     "2050": {
       "incidence": "26 (23-29)",
       "incidence_number": 26,
       "percent_change": -0.068,
-      "num_providers": 3,
+      "num_providers": 7,
       "num_cases_per_provider": 4
     }
   },
@@ -641,21 +641,21 @@
     "2030": {
       "incidence": "230 (201-259)",
       "incidence_number": 230,
-      "num_providers": 7,
+      "num_providers": 14,
       "num_cases_per_provider": 16
     },
     "2040": {
       "incidence": "230 (200-258)",
       "incidence_number": 230,
       "percent_change": -0.002,
-      "num_providers": 7,
+      "num_providers": 14,
       "num_cases_per_provider": 16
     },
     "2050": {
       "incidence": "227 (199-255)",
       "incidence_number": 227,
       "percent_change": -0.014,
-      "num_providers": 7,
+      "num_providers": 14,
       "num_cases_per_provider": 16
     }
   },
@@ -663,21 +663,21 @@
     "2030": {
       "incidence": "53 (47-60)",
       "incidence_number": 53,
-      "num_providers": 14,
+      "num_providers": 7,
       "num_cases_per_provider": 8
     },
     "2040": {
       "incidence": "51 (44-57)",
       "incidence_number": 51,
       "percent_change": -0.053,
-      "num_providers": 14,
+      "num_providers": 7,
       "num_cases_per_provider": 7
     },
     "2050": {
       "incidence": "49 (43-55)",
       "incidence_number": 49,
       "percent_change": -0.085,
-      "num_providers": 14,
+      "num_providers": 7,
       "num_cases_per_provider": 7
     }
   },
@@ -685,21 +685,21 @@
     "2030": {
       "incidence": "476 (415-535)",
       "incidence_number": 476,
-      "num_providers": 7,
+      "num_providers": 38,
       "num_cases_per_provider": 13
     },
     "2040": {
       "incidence": "459 (401-517)",
       "incidence_number": 459,
       "percent_change": -0.035,
-      "num_providers": 7,
+      "num_providers": 38,
       "num_cases_per_provider": 12
     },
     "2050": {
       "incidence": "449 (393-505)",
       "incidence_number": 449,
       "percent_change": -0.056,
-      "num_providers": 7,
+      "num_providers": 38,
       "num_cases_per_provider": 12
     }
   },
@@ -707,21 +707,21 @@
     "2030": {
       "incidence": "269 (235-303)",
       "incidence_number": 269,
-      "num_providers": 38,
+      "num_providers": 18,
       "num_cases_per_provider": 15
     },
     "2040": {
       "incidence": "279 (243-314)",
       "incidence_number": 279,
       "percent_change": 0.035,
-      "num_providers": 38,
+      "num_providers": 18,
       "num_cases_per_provider": 15
     },
     "2050": {
       "incidence": "289 (253-325)",
       "incidence_number": 289,
       "percent_change": 0.074,
-      "num_providers": 38,
+      "num_providers": 18,
       "num_cases_per_provider": 16
     }
   },
@@ -729,21 +729,21 @@
     "2030": {
       "incidence": "24 (21-27)",
       "incidence_number": 24,
-      "num_providers": 18,
+      "num_providers": 2,
       "num_cases_per_provider": 12
     },
     "2040": {
       "incidence": "27 (23-30)",
       "incidence_number": 27,
       "percent_change": 0.094,
-      "num_providers": 18,
+      "num_providers": 2,
       "num_cases_per_provider": 13
     },
     "2050": {
       "incidence": "30 (26-34)",
       "incidence_number": 30,
       "percent_change": 0.231,
-      "num_providers": 18,
+      "num_providers": 2,
       "num_cases_per_provider": 15
     }
   },
@@ -751,21 +751,21 @@
     "2030": {
       "incidence": "291 (254-327)",
       "incidence_number": 291,
-      "num_providers": 2,
+      "num_providers": 30,
       "num_cases_per_provider": 10
     },
     "2040": {
       "incidence": "280 (244-315)",
       "incidence_number": 280,
       "percent_change": -0.037,
-      "num_providers": 2,
+      "num_providers": 30,
       "num_cases_per_provider": 9
     },
     "2050": {
       "incidence": "270 (237-304)",
       "incidence_number": 270,
       "percent_change": -0.069,
-      "num_providers": 2,
+      "num_providers": 30,
       "num_cases_per_provider": 9
     }
   },
@@ -773,21 +773,21 @@
     "2030": {
       "incidence": "111 (97-125)",
       "incidence_number": 111,
-      "num_providers": 30,
+      "num_providers": 3,
       "num_cases_per_provider": 37
     },
     "2040": {
       "incidence": "111 (97-125)",
       "incidence_number": 111,
       "percent_change": 0.002,
-      "num_providers": 30,
+      "num_providers": 3,
       "num_cases_per_provider": 37
     },
     "2050": {
       "incidence": "111 (98-125)",
       "incidence_number": 111,
       "percent_change": 0.006,
-      "num_providers": 30,
+      "num_providers": 3,
       "num_cases_per_provider": 37
     }
   },
@@ -795,21 +795,21 @@
     "2030": {
       "incidence": "103 (90-115)",
       "incidence_number": 103,
-      "num_providers": 3,
+      "num_providers": 5,
       "num_cases_per_provider": 21
     },
     "2040": {
       "incidence": "105 (92-118)",
       "incidence_number": 105,
       "percent_change": 0.026,
-      "num_providers": 3,
+      "num_providers": 5,
       "num_cases_per_provider": 21
     },
     "2050": {
       "incidence": "109 (96-123)",
       "incidence_number": 109,
       "percent_change": 0.067,
-      "num_providers": 3,
+      "num_providers": 5,
       "num_cases_per_provider": 22
     }
   },
@@ -817,21 +817,21 @@
     "2030": {
       "incidence": "294 (257-331)",
       "incidence_number": 294,
-      "num_providers": 5,
+      "num_providers": 21,
       "num_cases_per_provider": 14
     },
     "2040": {
       "incidence": "281 (245-316)",
       "incidence_number": 281,
       "percent_change": -0.046,
-      "num_providers": 5,
+      "num_providers": 21,
       "num_cases_per_provider": 13
     },
     "2050": {
       "incidence": "273 (239-306)",
       "incidence_number": 273,
       "percent_change": -0.073,
-      "num_providers": 5,
+      "num_providers": 21,
       "num_cases_per_provider": 13
     }
   },
@@ -839,21 +839,21 @@
     "2030": {
       "incidence": "23 (20-26)",
       "incidence_number": 23,
-      "num_providers": 21,
+      "num_providers": 5,
       "num_cases_per_provider": 5
     },
     "2040": {
       "incidence": "23 (20-25)",
       "incidence_number": 23,
       "percent_change": -0.038,
-      "num_providers": 21,
+      "num_providers": 5,
       "num_cases_per_provider": 5
     },
     "2050": {
       "incidence": "22 (19-25)",
       "incidence_number": 22,
       "percent_change": -0.061,
-      "num_providers": 21,
+      "num_providers": 5,
       "num_cases_per_provider": 4
     }
   },
@@ -861,21 +861,21 @@
     "2030": {
       "incidence": "129 (113-146)",
       "incidence_number": 129,
-      "num_providers": 5,
+      "num_providers": 3,
       "num_cases_per_provider": 43
     },
     "2040": {
       "incidence": "135 (118-152)",
       "incidence_number": 135,
       "percent_change": 0.047,
-      "num_providers": 5,
+      "num_providers": 3,
       "num_cases_per_provider": 45
     },
     "2050": {
       "incidence": "143 (125-161)",
       "incidence_number": 143,
       "percent_change": 0.107,
-      "num_providers": 5,
+      "num_providers": 3,
       "num_cases_per_provider": 48
     }
   },
@@ -883,21 +883,21 @@
     "2030": {
       "incidence": "27 (23-30)",
       "incidence_number": 27,
-      "num_providers": 3,
+      "num_providers": 5,
       "num_cases_per_provider": 5
     },
     "2040": {
       "incidence": "27 (24-31)",
       "incidence_number": 27,
       "percent_change": 0.033,
-      "num_providers": 3,
+      "num_providers": 5,
       "num_cases_per_provider": 5
     },
     "2050": {
       "incidence": "29 (25-32)",
       "incidence_number": 29,
       "percent_change": 0.081,
-      "num_providers": 3,
+      "num_providers": 5,
       "num_cases_per_provider": 6
     }
   },
@@ -905,21 +905,21 @@
     "2030": {
       "incidence": "181 (158-204)",
       "incidence_number": 181,
-      "num_providers": 5,
+      "num_providers": 17,
       "num_cases_per_provider": 11
     },
     "2040": {
       "incidence": "187 (163-210)",
       "incidence_number": 187,
       "percent_change": 0.031,
-      "num_providers": 5,
+      "num_providers": 17,
       "num_cases_per_provider": 11
     },
     "2050": {
       "incidence": "193 (169-217)",
       "incidence_number": 193,
       "percent_change": 0.066,
-      "num_providers": 5,
+      "num_providers": 17,
       "num_cases_per_provider": 11
     }
   },
@@ -927,21 +927,21 @@
     "2030": {
       "incidence": "903 (788-1017)",
       "incidence_number": 903,
-      "num_providers": 17,
+      "num_providers": 56,
       "num_cases_per_provider": 16
     },
     "2040": {
       "incidence": "985 (860-1109)",
       "incidence_number": 985,
       "percent_change": 0.091,
-      "num_providers": 17,
+      "num_providers": 56,
       "num_cases_per_provider": 18
     },
     "2050": {
       "incidence": "1075 (942-1208)",
       "incidence_number": 1075,
       "percent_change": 0.19,
-      "num_providers": 17,
+      "num_providers": 56,
       "num_cases_per_provider": 19
     }
   },
@@ -949,21 +949,21 @@
     "2030": {
       "incidence": "124 (108-139)",
       "incidence_number": 124,
-      "num_providers": 56,
+      "num_providers": 8,
       "num_cases_per_provider": 15
     },
     "2040": {
       "incidence": "137 (120-154)",
       "incidence_number": 137,
       "percent_change": 0.108,
-      "num_providers": 56,
+      "num_providers": 8,
       "num_cases_per_provider": 17
     },
     "2050": {
       "incidence": "152 (133-171)",
       "incidence_number": 152,
       "percent_change": 0.23,
-      "num_providers": 56,
+      "num_providers": 8,
       "num_cases_per_provider": 19
     }
   },
@@ -971,21 +971,21 @@
     "2030": {
       "incidence": "13 (11-14)",
       "incidence_number": 13,
-      "num_providers": 8,
+      "num_providers": 3,
       "num_cases_per_provider": 4
     },
     "2040": {
       "incidence": "12 (10-13)",
       "incidence_number": 12,
       "percent_change": -0.051,
-      "num_providers": 8,
+      "num_providers": 3,
       "num_cases_per_provider": 4
     },
     "2050": {
       "incidence": "11 (10-13)",
       "incidence_number": 11,
       "percent_change": -0.083,
-      "num_providers": 8,
+      "num_providers": 3,
       "num_cases_per_provider": 4
     }
   },
@@ -993,21 +993,21 @@
     "2030": {
       "incidence": "221 (193-249)",
       "incidence_number": 221,
-      "num_providers": 3,
+      "num_providers": 30,
       "num_cases_per_provider": 7
     },
     "2040": {
       "incidence": "227 (198-256)",
       "incidence_number": 227,
       "percent_change": 0.028,
-      "num_providers": 3,
+      "num_providers": 30,
       "num_cases_per_provider": 8
     },
     "2050": {
       "incidence": "232 (203-260)",
       "incidence_number": 232,
       "percent_change": 0.048,
-      "num_providers": 3,
+      "num_providers": 30,
       "num_cases_per_provider": 8
     }
   },
@@ -1015,21 +1015,21 @@
     "2030": {
       "incidence": "210 (183-236)",
       "incidence_number": 210,
-      "num_providers": 30,
+      "num_providers": 9,
       "num_cases_per_provider": 23
     },
     "2040": {
       "incidence": "223 (195-251)",
       "incidence_number": 223,
       "percent_change": 0.064,
-      "num_providers": 30,
+      "num_providers": 9,
       "num_cases_per_provider": 25
     },
     "2050": {
       "incidence": "243 (213-274)",
       "incidence_number": 243,
       "percent_change": 0.159,
-      "num_providers": 30,
+      "num_providers": 9,
       "num_cases_per_provider": 27
     }
   },
@@ -1037,21 +1037,21 @@
     "2030": {
       "incidence": "37 (33-42)",
       "incidence_number": 37,
-      "num_providers": 9,
+      "num_providers": 3,
       "num_cases_per_provider": 12
     },
     "2040": {
       "incidence": "34 (30-39)",
       "incidence_number": 34,
       "percent_change": -0.083,
-      "num_providers": 9,
+      "num_providers": 3,
       "num_cases_per_provider": 11
     },
     "2050": {
       "incidence": "32 (28-36)",
       "incidence_number": 32,
       "percent_change": -0.154,
-      "num_providers": 9,
+      "num_providers": 3,
       "num_cases_per_provider": 11
     }
   },
@@ -1059,21 +1059,21 @@
     "2030": {
       "incidence": "142 (124-160)",
       "incidence_number": 142,
-      "num_providers": 3,
+      "num_providers": 12,
       "num_cases_per_provider": 12
     },
     "2040": {
       "incidence": "138 (120-155)",
       "incidence_number": 138,
       "percent_change": -0.027,
-      "num_providers": 3,
+      "num_providers": 12,
       "num_cases_per_provider": 11
     },
     "2050": {
       "incidence": "136 (119-152)",
       "incidence_number": 136,
       "percent_change": -0.043,
-      "num_providers": 3,
+      "num_providers": 12,
       "num_cases_per_provider": 11
     }
   },
@@ -1081,21 +1081,21 @@
     "2030": {
       "incidence": "15 (13-17)",
       "incidence_number": 15,
-      "num_providers": 12,
+      "num_providers": null,
       "num_cases_per_provider": 15
     },
     "2040": {
       "incidence": "15 (13-17)",
       "incidence_number": 15,
       "percent_change": -0.027,
-      "num_providers": 12,
+      "num_providers": null,
       "num_cases_per_provider": 1
     },
     "2050": {
       "incidence": "15 (13-16)",
       "incidence_number": 15,
       "percent_change": -0.042,
-      "num_providers": 12,
+      "num_providers": null,
       "num_cases_per_provider": 15
     }
   }
