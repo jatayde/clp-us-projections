@@ -15,7 +15,8 @@ const GEO_URL_US = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
  *     }
  *   }
  */
-export default function MapUS({ year, data }) {
+export default function MapUS({ year, data, cat }) {
+  console.log(cat);
   const [tip, setTip] = useState(null);
 
   // Flatten data by year and apply simple aliasing
@@ -30,24 +31,17 @@ export default function MapUS({ year, data }) {
   // Get min/max incidence (numeric) for color scale
   const [minVal, maxVal] = useMemo(() => {
     const vals = Object.values(perYear)
-      .map((d) => {
-        const raw = d?.incidence;
-        if (!raw && raw !== 0) return NaN;
-
-        // Extract the first number before parentheses or spaces
-        const match = String(raw)
-          .replace(/,/g, "")
-          .match(/[\d.]+/);
-        if (!match) return NaN;
-
-        const num = parseFloat(match[0]);
-        return Number.isFinite(num) ? num : NaN;
+      .map((row) => {
+        if (cat === "Percent Change") return row.percent_change;
+        if (cat === "Number of Providers") return row.num_providers;
+        if (cat === "Cases per Provider") return row.num_cases_per_provider; // includes your existing typo
+        return row.incidence_number; // default: total incidence
       })
-      .filter((n) => !Number.isNaN(n));
+      .filter((v) => Number.isFinite(v));
 
     if (!vals.length) return [0, 0];
     return [Math.min(...vals), Math.max(...vals)];
-  }, [perYear]);
+  }, [perYear, cat]);
 
   function getColor(val) {
     if (!Number.isFinite(val)) return "#e5e5e5"; // gray for missing
@@ -89,17 +83,16 @@ export default function MapUS({ year, data }) {
               const name = p.name;
 
               const row = perYear[name];
-              const rawIncidence = row?.incidence;
 
-              let numericIncidence = NaN;
-              if (rawIncidence || rawIncidence === 0) {
-                const match = String(rawIncidence)
-                  .replace(/,/g, "")
-                  .match(/[\d.]+/);
-                if (match) numericIncidence = parseFloat(match[0]);
-              }
+              const color = getColor(
+                cat === "Number of Providers"
+                  ? row?.num_providers
+                  : cat === "Cases per Provider"
+                    ? row?.num_cases_per_provider
+                    : row?.incidence_number,
+              );
 
-              const color = getColor(numericIncidence);
+              console.log(row);
 
               return (
                 <Geography
@@ -111,6 +104,9 @@ export default function MapUS({ year, data }) {
                       y: e.clientY,
                       name,
                       incidence: row?.incidence,
+                      percentChange: row?.percent_change,
+                      numProviders: row?.num_providers,
+                      numCasesPerProvider: row?.num_cases_per_provider,
                     })
                   }
                   onMouseMove={(e) =>
@@ -147,9 +143,30 @@ export default function MapUS({ year, data }) {
         >
           <strong>{tip.name}</strong>
           <div style={{ marginTop: 4 }}>
-            <div>
-              <em>CL/P Estimate:</em> {tip.incidence ?? "NaN"}
-            </div>
+            {tip.incidence && cat === "Total" && (
+              <div>
+                <em>CL/P Estimate:</em> {tip.incidence}
+              </div>
+            )}
+
+            {tip.percentChange != null && cat === "Total" && (
+              <div>
+                <em>Percent Change:</em> {Math.round(tip.percentChange * 100)}%
+              </div>
+            )}
+
+            {tip.numProviders != null && cat === "Number of Providers" && (
+              <div>
+                <em>Providers:</em> {tip.numProviders}
+              </div>
+            )}
+
+            {tip.numCasesPerProvider != null &&
+              cat === "Cases per Provider" && (
+                <div>
+                  <em>Cases per provider per year:</em> {tip.numCasesPerProvider}
+                </div>
+              )}
           </div>
         </div>
       )}

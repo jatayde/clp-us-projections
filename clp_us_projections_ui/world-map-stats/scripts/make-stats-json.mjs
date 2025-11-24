@@ -27,14 +27,23 @@ for (const row of rows) {
   stats[state] = {};
   for (const year of years) {
     const incidenceCol = `${year} Predicted Clefts`;
+    const percentChangeCol = `% Changes Compared to ${year}`;
+    const numProvidersCol = `Grand Total`;
+    const numCasesPerProviderCol = `Clefts/Providers ${year}`;
 
     const incidence = row[incidenceCol];
+    const percentChange = row[percentChangeCol];
+    const numProviders = row[numProvidersCol];
+    const numCasesPerProvider = row[numCasesPerProviderCol];
 
     const incidenceNum = parseFirstNumber(incidence);
 
     stats[state][year] = {
       incidence: incidence,
       incidence_number: incidenceNum, // numeric-only value
+      percent_change: percentChange,
+      num_providers: numProviders,
+      num_cases_per_provider: numCasesPerProvider,
     };
   }
 }
